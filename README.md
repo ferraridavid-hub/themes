@@ -1,2 +1,2 @@
-# themes
+# Themes
 Collection of custom themes 
